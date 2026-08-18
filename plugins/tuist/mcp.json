@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "tuist": {
+      "url": "https://tuist.dev/mcp"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tuist",
+  "owner": {
+    "name": "Tuist GmbH",
+    "email": "contact@tuist.dev"
+  },
+  "metadata": {
+    "description": "Cursor plugins for building Apple and Android apps with Tuist",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "tuist",
+      "source": "./plugins/tuist",
+      "description": "Agent skills and MCP access for Tuist projects: migrate to generated projects, compare builds, tests, bundles, and cache runs, and fix flaky tests"
+    }
+  ]
+}

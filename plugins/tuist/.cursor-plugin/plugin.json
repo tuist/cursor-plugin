@@ -1,0 +1,26 @@
+{
+  "name": "tuist",
+  "displayName": "Tuist",
+  "version": "0.1.0",
+  "description": "Work with Tuist projects from Cursor: migrate Xcode projects to generated workspaces, debug generation, and query builds, test runs, bundles, and cache runs from your Tuist dashboard.",
+  "author": {
+    "name": "Tuist GmbH",
+    "email": "contact@tuist.dev"
+  },
+  "license": "MIT",
+  "homepage": "https://tuist.dev",
+  "repository": "https://github.com/tuist/cursor-plugin",
+  "keywords": [
+    "tuist",
+    "xcode",
+    "swift",
+    "ios",
+    "macos",
+    "android",
+    "gradle",
+    "build",
+    "testing",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}
